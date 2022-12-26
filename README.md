@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yash Khairnar</h1>
-<img src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif"></img>
 <h3 align="center">Looking forward to learn as many domains as possible,efficiently, and build something by using them collectively.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmogyrall&label=Profile%20views&color=0e75b6&style=flat" alt="cosmogyrall" /> </p>

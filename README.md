@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Khairnar</h1>
 <h3 align="center">Looking forward to learn as many domains as possible,efficiently, and build something by using them collectively.</h3>
+<img href="https://www.inventateq.com/assets/python/small.gif></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmogyrall&label=Profile%20views&color=0e75b6&style=flat" alt="cosmogyrall" /> </p>
 
